@@ -9,3 +9,9 @@ functions:
     lang: node
     handler: ./NodeHelloEnv
     image: feri/NodeHelloEnv:latest
+  nodeinfo:
+    lang: node
+    handler: ./nodeinfo
+    image: feri/nodeinfo:latest
+
+    
