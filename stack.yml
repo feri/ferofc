@@ -5,3 +5,7 @@ functions:
     lang: node
     handler: ./helloworld
     image: feri/helloworld:latest
+  NodeHelloEnv:
+    lang: node
+    handler: ./NodeHelloEnv
+    image: feri/NodeHelloEnv:latest
