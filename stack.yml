@@ -13,8 +13,5 @@ functions:
     lang: node
     handler: ./nodeinfo
     image: feri/nodeinfo:latest
-  pwgen:
-    lang: dockerfile
-    image: functions/pwgen:latest
 
     
