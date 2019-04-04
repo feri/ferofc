@@ -5,13 +5,11 @@ functions:
     lang: node
     handler: ./helloworld
     image: feri/helloworld:latest
-  NodeHelloEnv:
-    lang: node
-    handler: ./NodeHelloEnv
-    image: feri/NodeHelloEnv:latest
   nodeinfo:
     lang: node
     handler: ./nodeinfo
     image: feri/nodeinfo:latest
-
-    
+  nodejs1:
+    lang: node
+    handler: ./nodejs1
+    image: nodejs1:latest
