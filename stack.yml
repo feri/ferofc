@@ -15,7 +15,6 @@ functions:
     image: feri/nodeinfo:latest
   pwgen:
     lang: dockerfile
-    skip_build: true
     image: functions/pwgen:latest
 
     
