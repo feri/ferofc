@@ -13,3 +13,7 @@ functions:
     lang: node
     handler: ./nodejs1
     image: nodejs1:latest
+  nodejs2:
+    lang: node
+    handler: ./nodejs2
+    image: nodejs2:latest
