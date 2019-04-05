@@ -17,3 +17,7 @@ functions:
     lang: node
     handler: ./nodejs2
     image: nodejs2:latest
+  nodejs3:
+    lang: node
+    handler: ./nodejs3
+    image: nodejs3:latest
