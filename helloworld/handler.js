@@ -1,6 +1,6 @@
 "use strict"
 
 module.exports = (context, callback) => {
-  let response = "Hello from Nashville! Hope you're having fun at SUSECON'19!\n"
+  let response = "Hello from Antwerp! Hope you're having fun at ONS!\n"
   callback(undefined, response);
 }
